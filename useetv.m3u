@@ -1,0 +1,241 @@
+#HD Channel
+#EXTINF:-1 ,HD - HBO HD (tidak bisa)
+rtp://@239.1.1.203:9192
+#EXTINF:-1 ,HD - BEIN 3 HD (tidak bisa)
+rtp://@239.1.1.205:9204
+#EXTINF:-1 ,HD - Disney HD (tidak bisa)
+rtp://@239.1.1.201:9180
+#EXTINF:-1 ,HD - Star Wold HD (tidak bisa)
+rtp://@239.1.1.209:9228
+#EXTINF:-1 ,HD - Nat Geo Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 ,HD - Fox Family HD
+rtp://@239.1.1.237:9396
+#EXTINF:-1 ,HD - Fox Movie Premium HD (tidak bisa)
+rtp://@239.1.1.211:9240
+#EXTINF:-1 ,HD - HBO Hits HD
+rtp://@239.1.1.215:9264
+#EXTINF:-1 ,HD - RED HD (tidak bisa) 
+rtp://@239.1.1.133:8772
+
+
+#LOKAL
+#EXTINF:-1 ,Lokal-100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 ,Lokal-101 METROTV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 ,Lokal-102 CNN INDONESIA
+rtp://@239.1.1.241:9362
+#EXTINF:-1 ,Lokal-103 TVONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 ,Lokal-104 TRANSTV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 ,Lokal-105 TRANS7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 ,Lokal-106 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 ,Lokal-107 INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 ,Lokal-108 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 ,Lokal-109 RCTI
+rtp://@239.1.1.23:8112
+#EXTINF:-1 ,Lokal-110 GLOBAL TV
+rtp://@239.1.1.13:8052
+#EXTINF:-1 ,Lokal-111 MNCTV
+rtp://@239.1.1.25:8124
+#EXTINF:-1 ,Lokal- Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 ,Lokal- NET TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 ,Lokal- Berita Satu
+rtp://@239.1.1.183:9072
+
+
+
+#KNOWLADGE
+#EXTINF:-1 ,KNOWLADGE-200 Khazanah (tidak bisa)
+rtp://@239.1.1.203:9356
+#EXTINF:-1 ,KNOWLADGE-201 National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:-1 ,KNOWLADGE-202 National Geographic Wild
+rtp://@239.1.1.35:8184
+#EXTINF:-1 ,KNOWLADGE-204 National Geographic HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 ,KNOWLADGE-205 History (tidak bisa)
+rtp://@239.1.1.57:8316
+#EXTINF:-1 ,KNOWLADGE-205 Nat Geo People (tidak bisa)
+rtp://@239.1.1.67:8376
+#EXTINF:-1,KNOWLEDGE - [283] Crime & Investigations
+rtp://@239.1.2.59:8328
+#EXTINF:-1,KNOWLEDGE - [284] fyi (tidak bisa)
+rtp://@239.1.2.61:8340
+
+#LIFESTYLE
+#EXTINF:-1 ,LIFESTYLE-301 Eat and Go
+rtp://@239.1.1.229:9350
+#EXTINF:-1 ,LIFESTYLE-302 E!Entertaiment (tidak bisa)
+rtp://@239.1.1.145:8844
+#EXTINF:-1 ,LIFESTYLE-302 Fashion TV (tidak bisa)
+rtp://@239.1.1.79:8448
+#EXTINF:-1 ,LIFESTYLE-304 Fashion One
+rtp://@239.1.1.127:8736
+
+#MUSIC
+#EXTINF:-1 ,MUSIC-401 TMusic (tidak bisa)
+rtp://@239.1.1.163:8952
+#EXTINF:-1 ,MUSIC-402 MTV (tidak bisa)
+rtp://@239.1.1.5:8004
+#EXTINF:-1 ,MUSIC-403 C Music (tidak bisa)
+rtp://@239.1.1.77:8436
+#EXTINF:-1 ,MUSIC-404 Channel[V] (tidak bisa)
+rtp://@239.1.1.173:9012
+
+#MOVIE
+#EXTINF:-1 ,Movie-600 HBO HD (tidak bisa)
+rtp://@239.1.1.203:9192
+#EXTINF:-1 ,Movie-601 HBO (tidak bisa)
+rtp://@239.1.1.95:8544
+#EXTINF:-1 ,Movie-602 HBO Signature (tidak bisa)
+rtp://@239.1.1.93:8532
+#EXTINF:-1 ,Movie-603 CINEMAX (tidak bisa)
+rtp://@239.1.1.87:8496
+#EXTINF:-1 ,Movie-604 HBO Hits (tidak bisa)
+rtp://@239.1.1.91:8520
+#EXTINF:-1 ,Movie-605 HBO Family (tidak bisa)
+rtp://@239.1.1.89:8508
+#EXTINF:-1 ,Movie-607 FOX Movie Premium
+rtp://@239.1.1.11:8040
+#EXTINF:-1 ,Movie-608 FOX Family Movie (tidak bisa)
+rtp://@239.1.1.175:9024
+#EXTINF:-1 ,Movie-609 FOX Action Movie (tidak bisa)
+rtp://@239.1.1.125:8724
+#EXTINF:-1 ,Movie-611 Celestial Movie (tidak bisa)
+rtp://@239.1.1.97:8558
+#EXTINF:-1 ,Movie-612 Star Chinese Movie (tidak bisa)
+rtp://@239.1.1.131:8760
+#EXTINF:-1 ,Movie-613 Star Chinese Movie Legend (tidak bisa)
+rtp://@239.1.1.151:8880
+#EXTINF:-1 ,Movie-614 Z Bioskop (India) (tidak bisa)
+rtp://@239.1.1.129:8748
+#EXTINF:-1 ,Movie-615 Bioskop Indonesia
+rtp://@239.1.1.226:9332
+#EXTINF:-1,MOVIES - [119] Flik (tidak bisa)
+rtp://@239.1.1.71:8400
+#EXTINF:-1,MOVIES - [616] RED by HBO (Trial) (tidak bisa)
+rtp://@239.1.1.114:8658
+#EXTINF:-1,MOVIES - [000] RED by HBO (HD) (Trial) (tidak bisa)
+rtp://@239.1.1.133:8772
+#EXTINF:-1,MOVIES - [617] GALAXY (Trial) (tidak bisa)
+rtp://@239.1.1.184:8778
+#EXTINF:-1,MOVIES - [686] AMC Channel (tidak bisa)
+rtp://@239.1.2.111:8640
+#EXTINF:-1,MOVIES - [690] Thrill (tidak bisa)
+rtp://@239.1.2.83:8472
+#EXTINF:-1,MOVIES - [694] Z Bioskop
+rtp://@239.1.2.129:8748
+#EXTINF:-1,MOVIES - [695] Cinema World
+rtp://@239.1.2.189:9108
+
+
+#SPORT
+#EXTINF:-1 ,SPORT-701 BEIN 1 (tidak bisa)
+rtp://@239.1.1.217:9204
+#EXTINF:-1 ,SPORT-702 BEIN 2 (tidak bisa)
+rtp://@239.1.1.221:9300
+#EXTINF:-1 ,SPORT-703 BEIN 3 (tidak bisa)
+rtp://@239.1.1.223:9312
+#EXTINF:-1 ,SPORT-704 Fight Sport (tidak bisa)
+rtp://@239.1.1.177:9036
+#EXTINF:-1 ,SPORT-705 FOX Sport 1 (tidak bisa)
+rtp://@239.1.1.103:8592
+#EXTINF:-1 ,SPORT-706 FOX Sport 2 (tidak bisa)
+rtp://@239.1.1.101:8580
+#EXTINF:-1 ,SPORT-707 FOX Sport 3 (tidak bisa)
+rtp://@239.1.1.53:8292
+
+#Relligious Channel 800
+#EXTINF:-1 ,Religious-814 Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+
+#NEWS 
+#EXTINF:-1 ,NEWS-801 CNN (tidak bisa)
+rtp://@239.1.1.105:8604
+#EXTINF:-1 ,NEWS-802 Bloomberg TV Asia (tidak bisa)
+rtp://@239.1.1.199:9168
+#EXTINF:-1 ,NEWS-803 CNBC Asia (tidak bisa)
+rtp://@239.1.1.155:8904
+#EXTINF:-1 ,NEWS-805 Al-jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 ,NEWS-811 CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 ,NEWS-812 CCTV 9 Documentary (tidak bisa)
+rtp://@239.1.1.121:8700
+
+#KIDS
+#EXTINF:-1 ,KIDS-901 Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 ,KIDS-902 Disney Channel (tidak bisa)
+rtp://@239.1.1.45:8244
+#EXTINF:-1 ,KIDS-903 Da Vinci Learning (tidak bisa)
+rtp://@239.1.1.99:8568
+#EXTINF:-1 ,KIDS-904 Nickelodeon (tidak bisa)
+rtp://@239.1.1.41:8220
+#EXTINF:-1 ,KIDS-905 Carton Network (tidak bisa)
+rtp://@239.1.1.123:8712
+#EXTINF:-1 ,KIDS-906 Toonami (tidak bisa)
+rtp://@239.1.1.143:8832
+#EXTINF:-1 ,KIDS-907 Boomerang (tidak bisa)
+rtp://@239.1.1.73:8412
+#EXTINF:-1,KIDS - [311] BabyFirst (Trial) (tidak bisa)
+rtp://@239.1.1.157:8916
+#EXTINF:-1,KIDS - [000] Disney Channel (HD) (tidak bisa)
+rtp://@239.1.1.201:9180
+#EXTINF:-1,KIDS - [382] Disney Junior (tidak bisa)
+rtp://@239.1.2.47:8256
+#EXTINF:-1,KIDS - [385] Nick Jr. (tidak bisa)
+rtp://@239.1.2.159:8928
+#EXTINF:-1,KIDS - [389] Duck TV
+rtp://@239.1.2.63:8352
+#EXTINF:-1,KIDS - [390] DreamWorks (Trial)
+rtp://@239.1.2.139:8808
+
+
+
+#GEN-ENT
+#EXTINF:-1,GEN ENT - [050] Showcase
+rtp://@239.1.1.225:9326
+#EXTINF:-1,GEN ENT - [051] Tahan Tawa
+rtp://@239.1.1.231:9362
+#EXTINF:-1,GEN ENT - [052] Dunia Lain
+rtp://@239.1.1.149:8868
+#EXTINF:-1,GEN ENT - [523] K-Plus (Trial) (tidak bisa)
+rtp://@239.1.1.242:9426
+#EXTINF:-1,GEN ENT - [525] Hi Indo (Trial)
+rtp://@239.1.1.240:9348
+#EXTINF:-1,GEN ENT - [570] Animax
+rtp://@239.1.2.157:8916
+#EXTINF:-1,GEN ENT - [571] DIVA (tidak bisa)
+rtp://@239.1.2.51:8280
+#EXTINF:-1,GEN ENT - [574] Star World (tidak bisa)
+rtp://@239.1.2.171:9000
+#EXTINF:-1,GEN ENT - [000] Star World (HD) (tidak bisa)
+rtp://@239.1.1.209:9228
+#EXTINF:-1,GEN ENT - [575] Lifetime
+rtp://@239.1.2.181:9260
+#EXTINF:-1,GEN ENT - [576] KIX
+rtp://@239.1.2.81:8460
+#EXTINF:-1,GEN ENT - [577] Comedy Central 
+rtp://@239.1.2.9:8028
+#EXTINF:-1,GEN ENT - [578] Channel M
+rtp://@239.1.2.135:8784
+#EXTINF:-1,GEN ENT - [579] KBS World (tidak bisa)
+rtp://@239.1.2.167:8976
+#EXTINF:-1,GEN ENT - [580] Aniplus
+rtp://@239.1.2.117:8676
+#EXTINF:-1,GEN ENT - [581] NHK World Premium (tidak bisa)
+rtp://@239.1.2.165:8964
+#EXTINF:-1,GEN ENT - [582] WakuWaku Japan
+rtp://@239.1.2.75:8424
+#EXTINF:-1,GEN ENT - [583] Star Chinese (tidak bisa)
+rtp://@239.1.2.153:8892
